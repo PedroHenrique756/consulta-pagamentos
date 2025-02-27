@@ -3,7 +3,7 @@
 
 <h1>💻 Funcionalidades</h1>
 <p>1. Abre o arquivo dados_clientes.xlsx e extrai os CPFs.</p>
-<p>2. Acessa o site https://consultcpf-devaprender.netlify.app/ via Selenium.</p>
+<p>2. Acessa o site via Selenium.</p>
 <p>3. Insere o CPF e verifica o status.</p>
 <p>4. Se estiver "em dia", salva a data e o método de pagamento em planilha fechamento.xlsx.</p>
 <p>5. Se estiver "pendente", apenas registra essa informação.</p>
