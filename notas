@@ -1,0 +1,5 @@
+//tag[@atributo='valo']
+
+//span[@id='statusLabel']
+
+//p[@id='paymentMethod']
