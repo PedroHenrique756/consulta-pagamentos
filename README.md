@@ -12,9 +12,9 @@
 <h1>Como usar</h1>
 <p>1. Preencha a planilha de clientes (dados_clientes.xlsx****)</p>
 <p>*O arquivo deve conter as colunas: Nome, Valor, CPF, Vencimento.</p>
-<p>Execute o script</p>
+<p>2. Execute o script</p>
 <p>*app.py</p>
-<p>3.Verifique o resultado</p>
+<p>3. Verifique o resultado</p>
 <p>*Os dados serão salvos em planilha fechamento.xlsx, com o status "em dia" ou "pendente".</p>
 
 
